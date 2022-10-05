@@ -1,7 +1,7 @@
 Hey 👋
 =======================
 
-* 🤝  I'm open to collaborating on Flutter projects as a freelancer
+* 🤝  I'm open to working on Flutter projects as a freelancer / Je suis prêt à travailler sur des projets Flutter en tant que freelance.
 
 ### Skills
 
