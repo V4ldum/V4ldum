@@ -1,7 +1,7 @@
 ## About Me
 
 <p>Ex OSCP-certified cybersecurity consultant, I currently work as a freelance software engineer. I have a broad technical range and am often learning new technologies.</p>
-<p>If you want to contact me for a freelancing mission, feel free to email me at <a href="mailto:freelance@v4ldum.simplelogin.com">freelance@v4ldum.simplelogin.com</a></p>
+<p>If you want to contact me for a freelancing mission, feel free to email me at <a href="mailto:freelance@mail.valdum.dev">freelance@mail.valdum.dev</a></p>
 <p>Have fun browsing my projects !</p>
 
 ## Main Skills
