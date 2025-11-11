@@ -16,7 +16,8 @@
     </a>
   </p>
   <ul>
-    <li> Axum, Tokio, Serde</li>
+    <li>Axum, Tokio, Serde</li>
+    <li>Leptos</li>
     <li>SQLx</li>
   </ul>
 
